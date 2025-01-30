@@ -124,3 +124,5 @@ HookParameterValue - candidate ID in this sample "Name of candidate 1"
   }
 }
 ```
+
+Credit for creating hook:  [@tequdev](https://github.com/tequdev)
