@@ -1,0 +1,14 @@
+{
+  "publishers": [
+    {
+      "username": "zgrguric",
+      "verifiedAt": "2025-11-15T15:17:54.096Z"
+    }
+  ],
+  "maintainers": [
+    "github:zgrguric"
+  ],
+  "allowedOrgs": [
+    "xrplwin"
+  ]
+}
